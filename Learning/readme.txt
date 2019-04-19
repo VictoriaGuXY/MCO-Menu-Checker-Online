@@ -3,4 +3,4 @@ Basically, these codes help me to understand the knowledge and logic behind the 
 and assist the project in different areas.
 
 Edited by Xinyu Gu
-This folder will not applied to the master branch.
+This folder will not applied to the master branch of the project's repository.
