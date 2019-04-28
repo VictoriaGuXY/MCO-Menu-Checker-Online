@@ -68,3 +68,8 @@ if __name__ == '__main__':
     sqlist.bubble_sort_advance()
     print(sqlist)
     
+    
+"""
+ 1 2 3 4 5 6 7 8 9    
+"""
+    
